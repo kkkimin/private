@@ -82,7 +82,7 @@
 ### 배포
 
 <a href="#">
-  <img src="https://via.placeholder.com/200x200/000000/FFFFFF?text=QR+CODE" alt="이 길 어때 배포 QR 이미지" />
+  <img src="https://www.notion.so/_assets/app-bde5b69fca558a00.css" alt="이 길 어때 배포 QR 이미지" />
 </a>
 
 <br/><br/>
