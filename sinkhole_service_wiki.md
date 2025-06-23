@@ -11,10 +11,10 @@
 
 ### 👩‍🚀 Members 🧑‍🚀
 
-|     황선우     |     전호연     |     오병주     |     김영래     |     김민영     |
-|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
-| <img src="https://via.placeholder.com/160x200/FF6B6B/FFFFFF?text=HSW" width="160" height="200" /> <br/> **팀장** <br/> (Team Leader & Scrum Master) | <img src="https://via.placeholder.com/160x200/4ECDC4/FFFFFF?text=JHY" width="160" height="200" /> <br/> **화이팅** <br/> (AI Developer) | <img src="https://via.placeholder.com/160x200/45B7D1/FFFFFF?text=OBJ" width="160" height="200" /> <br/> **짬타이거마스터** <br/> (Full-Stack Developer) | <img src="https://via.placeholder.com/160x200/96CEB4/FFFFFF?text=KYR" width="160" height="200" /> <br/> **광장, 전호연억제기** <br/> (Data Analyst) | <img src="https://via.placeholder.com/160x200/FFEAA7/000000?text=KMY" width="160" height="200" /> <br/> **서기** <br/> (Documentation Master) |
-| [Github](#) | [Github](#) | [Github](#) | [Github](#) | [Github](#) |
+|     황선우     |     전호연     |     오병주     |     김영래     |
+|:--------------:|:--------------:|:--------------:|:--------------:|
+| <img src="https://via.placeholder.com/160x200/FF6B6B/FFFFFF?text=HSW" width="160" height="200" /> <br/> **팀장** <br/> (Team Leader & Scrum Master) | <img src="https://via.placeholder.com/160x200/4ECDC4/FFFFFF?text=JHY" width="160" height="200" /> <br/> **화이팅** <br/> (AI Developer) | <img src="https://via.placeholder.com/160x200/45B7D1/FFFFFF?text=OBJ" width="160" height="200" /> <br/> **짬타이거마스터** <br/> (Full-Stack Developer) | <img src="https://via.placeholder.com/160x200/96CEB4/FFFFFF?text=KYR" width="160" height="200" /> <br/> **광장, 전호연억제기** <br/> (Data Analyst) |
+| [Github](#) | [Github](#) | [Github](#) | [Github](#) |
 
 <br/><br/>
 
@@ -65,24 +65,51 @@
 
 <br/><br/>
 
-### 기술 스택
 
-| 카테고리  | 기술 및 도구  |
-|----------------|----------------------------|
-| **AI/ML** | <img src="https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/> |
-| **언어** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> |
-| **웹 개발** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> |
-| **데이터 처리** | <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> |
-| **클라우드** | <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> |
-| **음성 기술** | <img src="https://img.shields.io/badge/TTS-4285F4?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/STT-4285F4?style=for-the-badge&logo=google&logoColor=white"/> |
-| **버전 관리** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> |
+## 🔧 기술 스택
 
-<br/><br/>
+### **☁️ Azure 리소스**
+- Azure Machine Learning Studio  
+- Azure OpenAI Service (GPT-4)  
+- Azure AI Search (RAG 설정용)  
+- Azure Speech Studio  
+- Azure Cognitive Services (Custom Vision, Computer Vision 등)  
+- Azure Blob Storage  
+
+### **🛠️ 개발 툴**
+- VSCode  
+- Jupyter Notebook  
+- Azure ML Studio  
+
+### **💻 개발 언어**
+- Python (주 언어 - ML/AI 개발)  
+- JavaScript / TypeScript (프론트엔드)  
+
+### **🎨 FrontEnd**
+- React.js (예정)  
+
+### **⚙️ BackEnd**
+- 미정  
+
+### **📊 데이터 처리 및 ML 라이브러리**
+- pandas, numpy (데이터 처리)  
+- scikit-learn (머신러닝)  
+- matplotlib, seaborn, folium (시각화)  
+- azure-ai-ml (Azure ML SDK)  
+
+### **🔐 코드 버전 관리 툴**
+- Git  
+- GitHub  
+
+### **🤝 프로젝트 관리 및 협업 툴**
+- Notion (문서화 및 프로젝트 관리)  
+- GitHub Issues & Projects (이슈 트래킹)
+
 
 ### 배포
 
 <a href="#">
-  <img src="https://www.notion.so/_assets/app-bde5b69fca558a00.css" alt="이 길 어때 배포 QR 이미지" />
+  <img src="https://via.placeholder.com/200x200/000000/FFFFFF?text=QR+CODE" alt="이 길 어때 배포 QR 이미지" />
 </a>
 
 <br/><br/>
@@ -172,7 +199,7 @@
 
 **📅 문서 작성 및 수정 날짜**: 2024.06.24  
 **👥 작성자**: 이 길 어때? 팀  
-**🤝 기여자**: 황선우, 전호연, 오병주, 김영래, 김민영  
+**🤝 기여자**: 황선우, 전호연, 오병주, 김영래  
 **📄 라이선스**: MIT License  
 **🔗 관련 링크**: [프로젝트 리포지토리](#) | [이슈 트래커](#) | [프로젝트 페이지](#)
 
